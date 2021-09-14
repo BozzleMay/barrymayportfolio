@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="assets/vendor/ionicons/css/ionicons.min.css" rel="stylesheet">
-    <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-    <link href="assets/css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="flexBoxP/styles.css">
+    <link href="flexBoxP/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="flexBoxP/assets/vendor/ionicons/css/ionicons.min.css" rel="stylesheet">
+    <link href="flexBoxP/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="flexBoxP/assets/css/style.css" rel="stylesheet">
     <title>My Website</title>
 </head>
 <body>
@@ -62,7 +62,7 @@
             </br></br>
                 I am passionate, dedicated and driven in everything I set my mind to, and love to work alongside like minded people. 
                 </p>
-            <a href="./screenshots/barryMayResume.docx" class="cta">Download Resume</a>
+            <a href="./flexBoxP/screenshots/barryMayResume.docx" class="cta">Download Resume</a>
           </div>
         </div>
       </section>
@@ -106,7 +106,7 @@
 
         </div>
         <div class="project-img">
-            <img src="./screenshots/amazonClone.png"/>
+            <img src="./flexBoxP/screenshots/amazonClone.png"/>
         </div>
     </div>
 
@@ -118,7 +118,7 @@
 
     </div>
     <div class="project-img">
-        <img src="./screenshots/huluClone.png"/>
+        <img src="./flexBoxP/screenshots/huluClone.png"/>
     </div>
 </div>
 
@@ -163,7 +163,7 @@
             
   
               <div class="col-lg-12">
-                <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+                <form action="./flexBoxP/forms/contact.php" method="post" role="form" class="php-email-form">
                   <div class="row">
   
                     <div class="col-lg-6">
@@ -228,18 +228,18 @@
             <p>Copyright 2021 Barry May. All rights reserved</p>
         </div>
     </section>
-    <script src="assets/vendor/jquery/jquery.min.js"></script>
-    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-    <script src="assets/vendor/php-email-form/validate.js"></script>
-    <script src="assets/vendor/typed/typed.js"></script>
-    <script src="assets/vendor/jquery-sticky/jquery.sticky.js"></script>
-    <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-    <script src="assets/vendor/venobox/venobox.min.js"></script>
-    <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+    <script src="flexBoxP/assets/vendor/jquery/jquery.min.js"></script>
+    <script src="flexBoxP/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="flexBoxP/assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+    <script src="flexBoxP/assets/vendor/php-email-form/validate.js"></script>
+    <script src="flexBoxP/assets/vendor/typed/typed.js"></script>
+    <script src="flexBoxP/assets/vendor/jquery-sticky/jquery.sticky.js"></script>
+    <script src="flexBoxP/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="flexBoxP/assets/vendor/venobox/venobox.min.js"></script>
+    <script src="flexBoxP/assets/vendor/owl.carousel/owl.carousel.min.js"></script>
   
     <!-- Template Main JS File -->
-    <script src="assets/js/main.js"></script>
-    <script src='./app.js'></script>
+    <script src="flexBoxP/assets/js/main.js"></script>
+    <script src='./flexBoxP/app.js'></script>
 </body>
 </html>
