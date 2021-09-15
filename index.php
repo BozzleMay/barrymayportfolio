@@ -52,7 +52,7 @@
             
           <div class="col-left">
             <div class="about-img">
-                <img src="screenshots/myself2.jpg"/>
+                <img src="./flexBoxP/screenshots/myself2.jpg"/>
             </div>
           </div>
           <div class="col-right">
